@@ -5,4 +5,5 @@ tmp/*
 .env
 !tmp/.gitkeep
 dist
+ormconfig.json
 
